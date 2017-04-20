@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+
+/***************/
+/* YOUR STYLES */
+/***************/
+
+/* Color Palette */
+.color-1 {
+    background: rgb(124, 172, 248);
+}
+
+/* Textures or Patterns*/
+.pattern-1 {
+    background: url("../img/");
+}
+
+/* Imagery */
+.imagery-1  img {
+    border: 0; 
+}
+
+/* Icons */
+
+
+/* Navigation */
+
+a:link {
+    text-decoration: none;
+    color: goldenrod;
+}
+
+a:visited {
+    text-decoration: none;
+    color: aqua;
+}
+
+a:focus {
+    
+}
+
+a:hover,
+a:active {
+  border-bottom: 2px solid goldenrod;  
+}
+
+
+/* Typography */
+h1 {
+    font-family: 'Nunito', sans-serif;
+}
+
+h3 {
+     font-family: 'Nunito', sans-serif;
+     color: navy;
+}
+
+p {
+    line-height: 1.5em;
+}
