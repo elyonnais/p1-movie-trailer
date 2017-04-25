@@ -31,8 +31,25 @@
 
 /* Textures or Patterns*/
 .pattern-1 {
-    background: url("../img/");
+    background: url("../img/old_wall.png");
 }
+
+.pattern-2 {
+    background: url("../img/small-crackle-bright.png");
+}
+
+.pattern-3 {
+    background: url("../img/black-Linen.png");
+}
+
+.pattern-4 {
+    background: url("../img/dark_embroidery.png");
+}
+
+.pattern-5 {
+    background: url("../img/sprinkles.png");
+}
+
 
 /* Imagery */
 .imagery-1  img {
