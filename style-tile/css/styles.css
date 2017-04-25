@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=Nunito');
+@import url('https://fonts.googleapis.com/css?family=Poiret+One');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
 
 
 /***************/
@@ -7,8 +8,26 @@
 
 /* Color Palette */
 .color-1 {
-    background: rgb(124, 172, 248);
+    background: #e2bc1c;
 }
+
+.color-2 {
+    background: #1e0e58;
+}
+
+.color-3 {
+    background: #44239f;
+}
+
+.color-4 {
+    background: #8399ae;
+}
+
+.color-5 {
+    background: #94c4ca;
+}
+
+
 
 /* Textures or Patterns*/
 .pattern-1 {
@@ -47,14 +66,18 @@ a:active {
 
 /* Typography */
 h1 {
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Poiret One', cursive;
+    text-transform: uppercase;
+
 }
 
 h3 {
-     font-family: 'Nunito', sans-serif;
+     font-family: 'Poiret One', cursive;
+
      color: navy;
 }
 
 p {
+    font-family: 'Raleway', sans-serif;
     line-height: 1.5em;
 }
