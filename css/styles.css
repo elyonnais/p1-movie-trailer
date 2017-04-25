@@ -1,4 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Poiret+One');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
 /* Styling */
 body {
-    background: rgba(0, 240, 194, 0.71);
+    background: #e2bc1c;
+}
+
+h1 {
+    font-family: 'Poiret One', cursive;
+    text-transform: uppercase;
+
 }
