@@ -31,6 +31,16 @@ video {
 }
 
 
+p {
+    margin: 50px;
+    color: white;
+    font-family: 'Raleway', Arial; 
+    
+}
+
+
+
+
 
 /* Media Queries */
 /* Mobile */
@@ -39,6 +49,10 @@ video {
   and (max-width: 47.9375em)  { 
       
       body {
+           background: #e2bc1c;
+           background-image: url(../img/Actors_of_La_La_Land_dance_in_Griffith_Park.jpg);
+          background-repeat: no-repeat;
+          
           background-size: contain; 
           margin: 0;
       }
