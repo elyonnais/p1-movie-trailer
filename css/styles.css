@@ -3,12 +3,21 @@
 
 /* Styling */
 body {
-    background: #e2bc1c;
+/*    background: #e2bc1c;*/
+    background-image: url(../img/Actors_of_La_La_Land_dance_in_Griffith_Park.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 h1 {
     font-family: 'Poiret One', cursive;
     text-transform: uppercase;
+    margin-bottom: 500px;
+    text-align: center;
+    color: aliceblue;
+    font-size: 70px;
 
 }
 
