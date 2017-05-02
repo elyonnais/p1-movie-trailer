@@ -9,15 +9,19 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+
+
 }
 
 h1 {
     font-family: 'Poiret One', cursive;
     text-transform: uppercase;
-    margin-bottom: 500px;
+    margin-bottom: 400px;
     text-align: center;
     color: aliceblue;
     font-size: 70px;
+    margin-top: 250px;
+    
 
 }
 
@@ -25,3 +29,27 @@ video {
   max-width: 100%;
   width: 100%;
 }
+
+
+
+/* Media Queries */
+/* Mobile */
+@media screen and
+  (min-width: 20em) 
+  and (max-width: 47.9375em)  { 
+      
+      body {
+          background-size: contain; 
+          margin: 0;
+      }
+      
+      h1 {
+          margin-top: 100px;
+          margin-bottom: 250px;
+      }
+      
+    
+      .page{display:block}body:before{background:yellow;content:"Mobile Size"}}
+      
+}
+
