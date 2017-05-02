@@ -36,6 +36,7 @@ p {
     margin: 50px;
     color: white;
     font-family: 'Raleway', Arial; 
+   
     
 }
 
@@ -75,6 +76,37 @@ a {
       }
       
 
-      
 }
+
+@media screen and (min-width: 48em) {
+    
+    p {
+        margin: 50px 150px;
+        
+       
+    }
+    
+
+    
+    li {
+        margin: 10px;
+        text-align: center;
+        background: #e2bc1c;
+    }
+}
+
+@media screen and (min-width: 80em) {
+    
+    p {
+        margin: 50px 250px;
+    }
+    
+    li {
+        margin: 10px;
+        text-align: center;
+    }
+    
+
+}
+
 
