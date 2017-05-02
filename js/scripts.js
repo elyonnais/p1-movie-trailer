@@ -8,3 +8,6 @@ $('video').mediaelementplayer();
 // FitVids
 $('div').fitVids();
 
+
+// FitText
+$('h1').fitText(.7);
