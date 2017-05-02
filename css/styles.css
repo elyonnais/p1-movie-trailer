@@ -28,6 +28,7 @@ h1 {
 video {
   max-width: 100%;
   width: 100%;
+
 }
 
 
@@ -38,7 +39,18 @@ p {
     
 }
 
+li {
+    color: white;
+    list-style: none;
+    
+    justify-content: space-between;
+    
+}
 
+a {
+    color: white;
+    font-family: "Raleway", Arial; 
+}
 
 
 
@@ -62,8 +74,7 @@ p {
           margin-bottom: 250px;
       }
       
-    
-      .page{display:block}body:before{background:yellow;content:"Mobile Size"}}
+
       
 }
 
